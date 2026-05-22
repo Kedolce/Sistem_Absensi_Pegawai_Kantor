@@ -61,8 +61,8 @@ class AbsensiController extends Controller
             'foto_masuk' => 'required|image|mimes:jpg,jpeg,png|max:2048',
         ]);
 
-        $officeLat = -5.3615;
-        $officeLong = 105.2415;
+        $officeLat = -6.2088; //cordinate
+        $officeLong = 106.8456;
 
         if (!$request->location) {
             return back()->with('error', 'Lokasi tidak terdeteksi!');

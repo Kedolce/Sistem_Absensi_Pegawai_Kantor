@@ -68,7 +68,7 @@
             <div class="mt-6 text-center">
                 <p class="text-sm text-white/90">
                     Lupa password?
-                    <a href="https://wa.me/62895704008378?text=HALO%20ADMIN%20SAYA%20LUPA%20PASSWORD%0ANAMA : %0ANIP : " target="_blank"
+                    <a href="https://wa.me/62xxxxxxxxx?text=HALO%20ADMIN%20SAYA%20LUPA%20PASSWORD%0ANAMA : %0ANIP : " target="_blank"
                         class="text-blue-300 md:text-white underline md:hover:text-blue-400 font-medium transition-colors">
                         Hubungi Admin
                     </a>
