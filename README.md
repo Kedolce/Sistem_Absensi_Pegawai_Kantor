@@ -8,6 +8,10 @@ Aplikasi manajemen absensi pegawai berbasis web yang dibangun menggunakan **Lara
 * Fitur Tambahan (Foto Absen & Koordinat Lokasi)
 * Halaman Dashboard Ringkasan Data
 
+## Tampilan Website
+![Login Page](screenshot/Login.png)
+![Dashboard Page](screenshot/Dashboard.png)
+
 ## Cara Menjalankan Project Secara Lokal
 1. Clone repository ini: `git clone https://github.com/Kedolce/Sistem_Absensi_Pegawai_Kantor`
 2. Jalankan `composer install` dan `npm install && npm run dev`

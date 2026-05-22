@@ -16,7 +16,7 @@
         <h1 class="text-center font-bold text-3xl md:text-5xl text-white">ABSENSI KANTOR <span class="text-yellow-300">BALINESE</span></h1>
     </div>
 
-    <div class="md:backdrop-blur-md bg-white/10 md:bg-white/10 border border-white/20 p-8 rounded-2xl shadow-2xl w-[90%] max-w-lg sm:mx-auto bg-black/10">
+    <div class="md:backdrop-blur-md bg-white/10 md:bg-white/10 border border-white/20 p-8 rounded-2xl shadow-2xl w-[90%] max-w-lg sm:mx-auto">
 
         <!-- Header -->
         <div class="mb-8 text-center">
